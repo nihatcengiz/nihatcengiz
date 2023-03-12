@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihat Cengiz PAMUK</h1>
+<h1 align="center">Hi 👋, I'm Nihat Cengiz Pamuk</h1>
 <h3 align="center">A Electrical Electronics Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **C/C#/Altium Designer/KiCad**
