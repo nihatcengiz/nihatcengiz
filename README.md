@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihat Cengiz Pamuk</h1>
 <h3 align="center">A Electrical Electronics Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **C/C#/Altium Designer/KiCad**
+- 🌱 I’m currently learning **C/KiCad/Altium Designer/**
 
 - 📫 How to reach me **nihatcengizpamuk@gmail.com**
 
